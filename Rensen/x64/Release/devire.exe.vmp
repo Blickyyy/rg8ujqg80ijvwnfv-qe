@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document Version="2">
+    <Protection InputFileName="devire.exe" Options="332744" VMCodeSectionName=".???">
+        <Messages />
+        <Folders />
+        <Procedures>
+            <Procedure MapAddress="Thread_Funtion_WalkingBot(void)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="_register_thread_local_exe_atexit_callback" Options="0" CompilationType="2" />
+            <Procedure MapAddress="std::this_thread::sleep_for&lt;__int64,struct std::ratio&lt;1,1000000000&gt; &gt;(class std::chrono::duration&lt;__int64,struct std::ratio&lt;1,1000000000&gt; &gt; const &amp;)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="_Init_thread_header" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Thread_Funtion_PlayerESP(void)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Thread_Misc(void)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Thread_Funtion_Radar(void)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Thread_Funtion_AssisteAim(void)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Thread_Funtion_AdaptiveAimbot(void)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="_Init_thread_footer" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Thread_Funtion_RemoveRecoil(void)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="std::thread::_Invoke&lt;class std::tuple&lt;void (*)(void)&gt;,0&gt;(void *)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Thread_Funtion_Sonar(void)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Thread_Funtion_Triggerbot(void)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="_configthreadlocale" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Thread_Funtion_Aimbot(void)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Thread_Menu(void)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Thread_Funtion_EntityESP(void)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Thread_Funtion_BunnyHop(void)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Variable::Animation_Vec2&lt;`Thread_Menu&apos;::`4&apos;::CLASS_MenuState_Animation_&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Variable::Animation_Vec4&lt;`Thread_Misc&apos;::`32&apos;::CLASS_NIGHTMODE_BACKGROUNDCOLOR_ANI_&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Block_Panel&lt;`Thread_Menu&apos;::`9&apos;::CLASS_Block_Panel&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_InputText&lt;`Thread_Menu&apos;::`69&apos;::CLASS_Block_DebugControl_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_InputText&lt;`Thread_Menu&apos;::`107&apos;::CLASS_Block_Menu_4&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_InputText&lt;`Thread_Menu&apos;::`69&apos;::CLASS_Block_PlayerList_2&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_InputText&lt;`Thread_Menu&apos;::`107&apos;::CLASS_Block_Presets_2&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_KeySelector&lt;`Thread_Menu&apos;::`16&apos;::CLASS_Block_Aimbot_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_KeySelector&lt;`Thread_Menu&apos;::`69&apos;::CLASS_Block_DebugControl_2&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_KeySelector&lt;`Thread_Menu&apos;::`69&apos;::CLASS_Block_DebugControl_3&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_KeySelector&lt;`Thread_Menu&apos;::`20&apos;::CLASS_Block_ESP_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_KeySelector&lt;`Thread_Menu&apos;::`107&apos;::CLASS_Block_Menu_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_KeySelector&lt;`Thread_Menu&apos;::`24&apos;::CLASS_Block_Misc_10&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_KeySelector&lt;`Thread_Menu&apos;::`24&apos;::CLASS_Block_Misc_11&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_KeySelector&lt;`Thread_Menu&apos;::`24&apos;::CLASS_Block_Misc_3&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_KeySelector&lt;`Thread_Menu&apos;::`24&apos;::CLASS_Block_Misc_6&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_KeySelector&lt;`Thread_Menu&apos;::`24&apos;::CLASS_Block_Misc_7&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_KeySelector&lt;`Thread_Menu&apos;::`24&apos;::CLASS_Block_Spoof_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_KeySelector&lt;`Thread_Menu&apos;::`24&apos;::CLASS_Block_Spoof_4&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_KeySelector&lt;`Thread_Menu&apos;::`24&apos;::CLASS_Block_Spoof_5&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_KeySelector&lt;`Thread_Menu&apos;::`24&apos;::CLASS_Block_Spoof_6&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_KeySelector&lt;`Thread_Menu&apos;::`16&apos;::CLASS_Block_Triggerbot_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_List&lt;`Thread_Menu&apos;::`24&apos;::CLASS_Block_CloudPreset_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_List&lt;`Thread_Menu&apos;::`69&apos;::CLASS_Block_PlayerList_3&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_List&lt;`Thread_Menu&apos;::`107&apos;::CLASS_Block_Presets_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`16&apos;::CLASS_Block_Aimbot_2&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`16&apos;::CLASS_Block_Aimbot_3&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`16&apos;::CLASS_Block_Armory_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`16&apos;::CLASS_Block_Armory_3&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`16&apos;::CLASS_Block_Armory_5&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`16&apos;::CLASS_Block_Armory_7&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`16&apos;::CLASS_Block_Armory_9&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`16&apos;::CLASS_Block_Backtracking_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`16&apos;::CLASS_Block_Backtracking_2&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`69&apos;::CLASS_Block_DebugControl_4&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`20&apos;::CLASS_Block_ESP_2&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`20&apos;::CLASS_Block_ESP_3&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`20&apos;::CLASS_Block_ESP_4&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`20&apos;::CLASS_Block_ESP_5&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`20&apos;::CLASS_Block_ESP_6&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`20&apos;::CLASS_Block_Hitmark_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`20&apos;::CLASS_Block_Hitmark_2&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`20&apos;::CLASS_Block_Hitmark_3&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`20&apos;::CLASS_Block_Hitmark_4&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`20&apos;::CLASS_Block_Hitmark_5&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`16&apos;::CLASS_Block_MagnetAim_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`107&apos;::CLASS_Block_Menu_3&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`24&apos;::CLASS_Block_Misc_12&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`24&apos;::CLASS_Block_Misc_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`24&apos;::CLASS_Block_Misc_2&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`24&apos;::CLASS_Block_Misc_4&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`24&apos;::CLASS_Block_Misc_5&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`24&apos;::CLASS_Block_Misc_8&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`24&apos;::CLASS_Block_Misc_9&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`69&apos;::CLASS_Block_PlayerList_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`20&apos;::CLASS_Block_Radar_2&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`20&apos;::CLASS_Block_Radar_3&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`16&apos;::CLASS_Block_RemoveRecoil_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`16&apos;::CLASS_Block_RemoveRecoil_2&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`24&apos;::CLASS_Block_Spoof_3&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`24&apos;::CLASS_Block_Spoof_7&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`16&apos;::CLASS_Block_Triggerbot_2&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;int,`Thread_Menu&apos;::`16&apos;::CLASS_Block_Triggerbot_3&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;float,`Thread_Menu&apos;::`16&apos;::CLASS_Block_Aimbot_4&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;float,`Thread_Menu&apos;::`16&apos;::CLASS_Block_Armory_2&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;float,`Thread_Menu&apos;::`16&apos;::CLASS_Block_Armory_4&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;float,`Thread_Menu&apos;::`16&apos;::CLASS_Block_Armory_6&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;float,`Thread_Menu&apos;::`16&apos;::CLASS_Block_Armory_8&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;float,`Thread_Menu&apos;::`69&apos;::CLASS_Block_DebugControl_5&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;float,`Thread_Menu&apos;::`16&apos;::CLASS_Block_MagnetAim_2&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;float,`Thread_Menu&apos;::`107&apos;::CLASS_Block_Menu_2&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;float,`Thread_Menu&apos;::`16&apos;::CLASS_Block_PreciseAim_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;float,`Thread_Menu&apos;::`16&apos;::CLASS_Block_PreciseAim_2&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;float,`Thread_Menu&apos;::`20&apos;::CLASS_Block_Radar_1&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="EasyGUI::EasyGUI::GUI_Slider&lt;float,`Thread_Menu&apos;::`24&apos;::CLASS_Block_Spoof_2&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="System::Sleep_Tick&lt;`Thread_Menu&apos;::`70&apos;::CLASS_DEBUG_AUTO_RELOAD_PLAYERLIST_&gt;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="`Thread_Funtion_PlayerESP&apos;::`48&apos;::`dynamic atexit destructor for &apos;Bone_Flags&apos;&apos;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="`Thread_Funtion_EntityESP&apos;::`7&apos;::`dynamic atexit destructor for &apos;Class_ID&apos;&apos;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="`Thread_Menu&apos;::`107&apos;::`dynamic atexit destructor for &apos;CreatePresetName&apos;&apos;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="`Thread_Funtion_Radar&apos;::`20&apos;::`dynamic atexit destructor for &apos;EnemyScreenPos&apos;&apos;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="`Thread_Menu&apos;::`107&apos;::`dynamic atexit destructor for &apos;FileList&apos;&apos;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="`Thread_Menu&apos;::`24&apos;::`dynamic atexit destructor for &apos;MapName&apos;&apos;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="`Thread_Menu&apos;::`69&apos;::`dynamic atexit destructor for &apos;PlayerName&apos;&apos;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="`Thread_Menu&apos;::`69&apos;::`dynamic atexit destructor for &apos;PlayerNameList&apos;&apos;" Options="0" CompilationType="2" />
+            <Procedure MapAddress="`Thread_Misc&apos;::`16&apos;::`dynamic atexit destructor for &apos;WaterMark_String&apos;&apos;" Options="0" CompilationType="2" />
+        </Procedures>
+        <Objects />
+    </Protection>
+    <DLLBox>
+        <Folders />
+    </DLLBox>
+    <Script />
+    <LicenseManager />
+</Document>
